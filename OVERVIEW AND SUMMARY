@@ -1,0 +1,25 @@
+Tom Kelly
+
+02\28\2021
+
+ 
+
+Charity Clarity
+
+Summary:
+
+          To develop an interactive platform of which the sole purpose is to carry out currency exchanges between United States citizens and the IRS. Initially this code will be written in HTML for the website build. Eventually the code will integrated into an app for all users and www.irs.gov to track their donations throughout the year. At the end of the year when the users receives his\her w2 in the mail, the irs will automatically send the donations as well making it much easier more efficient and more organized to do all deductions.
+
+ 
+
+HTML build Platforms:
+
+Github
+
+Circle1
+
+ Algorythms will have to be developed in order to carry out the transfers with no human interface. This app will work best if these donations are made by debit or credit card (example: do you want to donate 2 dollars to the presidential campaign. The program on the retailer side will take that info into the cloud and push it to the IRS. Irs program will gather data and redistribute analysis to consumer with w2 at the end of the year.
+
+Everyone wins
+
+ 
